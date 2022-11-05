@@ -1,4 +1,4 @@
-# Springboard-2022-Oct
+# Springboard-2022
 Useful git commands to remember:
 * git status
 * git add {filename}
